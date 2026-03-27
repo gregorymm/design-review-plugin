@@ -1,0 +1,22 @@
+{
+  "name": "design-review",
+  "version": "1.0.0",
+  "description": "UI/UX design review skill based on FormFactor design school methodology. Reviews designs against professional standards for visual hierarchy, spacing, typography, color, layout composition, and Figma best practices.",
+  "author": {
+    "name": "Gregory Muryn-Mukha",
+    "url": "https://github.com/Gregorymm"
+  },
+  "repository": "https://github.com/Gregorymm/design-review-plugin",
+  "license": "MIT",
+  "keywords": [
+    "design-review",
+    "ui-ux",
+    "figma",
+    "visual-hierarchy",
+    "typography",
+    "color-theory",
+    "layout",
+    "portfolio-review",
+    "design-feedback"
+  ]
+}
