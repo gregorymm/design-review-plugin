@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "design-review",
-      "source": ".",
+      "source": "./",
       "description": "UI/UX design review skill. Reviews against professional standards for visual hierarchy, spacing, typography, color, layout, and Figma best practices.",
       "version": "1.0.0",
       "license": "MIT",
